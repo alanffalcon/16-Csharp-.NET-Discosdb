@@ -1,0 +1,9 @@
+C:\Users\Alan\Documents\PROGRAMACION\MaxiPrograma\Curso C# Nivel 2 - Repaso\Discos 6\Practica\Practica\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Alan\Documents\PROGRAMACION\MaxiPrograma\Curso C# Nivel 2 - Repaso\Discos 6\Practica\Practica\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Documents\PROGRAMACION\MaxiPrograma\Curso C# Nivel 2 - Repaso\Discos 6\Practica\Practica\negocio\bin\Debug\negocio.dll
+C:\Users\Alan\Documents\PROGRAMACION\MaxiPrograma\Curso C# Nivel 2 - Repaso\Discos 6\Practica\Practica\negocio\bin\Debug\negocio.pdb
+C:\Users\Alan\Documents\PROGRAMACION\MaxiPrograma\Curso C# Nivel 2 - Repaso\Discos 6\Practica\Practica\negocio\bin\Debug\dominio.dll
+C:\Users\Alan\Documents\PROGRAMACION\MaxiPrograma\Curso C# Nivel 2 - Repaso\Discos 6\Practica\Practica\negocio\bin\Debug\dominio.pdb
+C:\Users\Alan\Documents\PROGRAMACION\MaxiPrograma\Curso C# Nivel 2 - Repaso\Discos 6\Practica\Practica\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\Alan\Documents\PROGRAMACION\MaxiPrograma\Curso C# Nivel 2 - Repaso\Discos 6\Practica\Practica\negocio\obj\Debug\negocio.dll
+C:\Users\Alan\Documents\PROGRAMACION\MaxiPrograma\Curso C# Nivel 2 - Repaso\Discos 6\Practica\Practica\negocio\obj\Debug\negocio.pdb
